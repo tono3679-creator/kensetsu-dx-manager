@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="施工前の天井照明（サンプル画像）">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8a8f96"/><stop offset="1" stop-color="#5c6168"/></linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6b625a"/><stop offset="1" stop-color="#4a433d"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#wall)"/>
+  <polygon points="0,0 800,0 640,170 160,170" fill="#9aa0a6"/>
+  <polygon points="0,600 800,600 640,430 160,430" fill="url(#floor)"/>
+  <rect x="160" y="170" width="480" height="260" fill="#7c8188"/>
+  <g fill="#c9c3a8" stroke="#8e8a78" stroke-width="3">
+    <rect x="230" y="40" width="140" height="22" rx="4"/><rect x="430" y="40" width="140" height="22" rx="4"/>
+    <rect x="260" y="105" width="110" height="18" rx="4"/><rect x="430" y="105" width="110" height="18" rx="4"/>
+  </g>
+  <g fill="#e8e0b8" opacity=".55"><rect x="240" y="46" width="120" height="8"/><rect x="440" y="46" width="60" height="8"/></g>
+  <rect x="360" y="250" width="80" height="180" fill="#5d6269" stroke="#4b4f55" stroke-width="4"/>
+  <rect x="24" y="530" width="300" height="46" rx="8" fill="#0f172a" opacity=".78"/>
+  <text x="42" y="561" font-family="sans-serif" font-size="22" fill="#fff">施工前 ・ 既設蛍光灯（サンプル画像）</text>
+</svg>

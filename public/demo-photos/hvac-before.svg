@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="施工前の既設エアコン（サンプル画像）">
+  <rect width="800" height="600" fill="#d6d0c4"/>
+  <rect y="470" width="800" height="130" fill="#8b7e6f"/>
+  <rect x="210" y="140" width="380" height="120" rx="18" fill="#e7e1cf" stroke="#a89f86" stroke-width="5"/>
+  <rect x="236" y="225" width="328" height="16" rx="6" fill="#b8ae94"/>
+  <g stroke="#a89f86" stroke-width="3"><line x1="250" y1="180" x2="550" y2="180"/><line x1="250" y1="195" x2="550" y2="195"/></g>
+  <path d="M560 260 C 600 300, 600 380, 650 470" stroke="#9ca3af" stroke-width="10" fill="none"/>
+  <circle cx="300" cy="320" r="3" fill="#7c6f5a"/><circle cx="340" cy="335" r="2" fill="#7c6f5a"/>
+  <rect x="24" y="530" width="320" height="46" rx="8" fill="#0f172a" opacity=".78"/>
+  <text x="42" y="561" font-family="sans-serif" font-size="22" fill="#fff">施工前 ・ 既設エアコン（サンプル画像）</text>
+</svg>

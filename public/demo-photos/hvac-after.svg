@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="施工後の空調機器（サンプル画像）">
+  <rect width="800" height="600" fill="#f1f5f9"/>
+  <rect width="800" height="150" fill="#ffffff"/>
+  <rect y="470" width="800" height="130" fill="#d6c7b4"/>
+  <rect x="270" y="40" width="260" height="100" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="320" y="70" width="160" height="40" rx="4" fill="#e2e8f0"/>
+  <g stroke="#38bdf8" stroke-width="5" stroke-linecap="round" fill="none" opacity=".8">
+    <path d="M300 160 q 20 30 0 60"/><path d="M400 160 q 20 30 0 60"/><path d="M500 160 q 20 30 0 60"/>
+  </g>
+  <rect x="560" y="300" width="70" height="110" rx="10" fill="#ffffff" stroke="#94a3b8" stroke-width="3"/>
+  <text x="572" y="345" font-family="sans-serif" font-size="22" fill="#0ea5e9">24℃</text>
+  <rect x="24" y="530" width="340" height="46" rx="8" fill="#047857" opacity=".9"/>
+  <text x="42" y="561" font-family="sans-serif" font-size="22" fill="#fff">施工後 ・ 試運転完了（サンプル画像）</text>
+</svg>

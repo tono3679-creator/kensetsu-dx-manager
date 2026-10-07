@@ -1,0 +1,7 @@
+.env*
+.data
+.next
+node_modules
+coverage
+tests
+docs/screenshots

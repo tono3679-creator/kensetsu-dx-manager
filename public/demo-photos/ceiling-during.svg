@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="施工中の照明器具交換（サンプル画像）">
+  <rect width="800" height="600" fill="#9ca3ab"/>
+  <polygon points="0,0 800,0 640,170 160,170" fill="#b4bac0"/>
+  <polygon points="0,600 800,600 640,430 160,430" fill="#6f665d"/>
+  <rect x="160" y="170" width="480" height="260" fill="#a3a9b0"/>
+  <rect x="300" y="60" width="200" height="60" fill="#3f454c"/>
+  <path d="M330 120 C 340 180, 360 200, 380 230" stroke="#111827" stroke-width="4" fill="none"/>
+  <path d="M470 120 C 460 170, 450 190, 430 220" stroke="#b91c1c" stroke-width="4" fill="none"/>
+  <g stroke="#d97706" stroke-width="10" stroke-linecap="round">
+    <line x1="300" y1="560" x2="370" y2="230"/><line x1="460" y1="560" x2="400" y2="230"/>
+    <line x1="318" y1="480" x2="440" y2="480"/><line x1="335" y1="400" x2="428" y2="400"/><line x1="352" y1="320" x2="416" y2="320"/>
+  </g>
+  <circle cx="392" cy="180" r="26" fill="#fbbf24"/>
+  <rect x="368" y="206" width="48" height="70" rx="10" fill="#1d4ed8"/>
+  <rect x="24" y="530" width="300" height="46" rx="8" fill="#1d4ed8" opacity=".85"/>
+  <text x="42" y="561" font-family="sans-serif" font-size="22" fill="#fff">施工中 ・ 器具交換作業（サンプル画像）</text>
+</svg>

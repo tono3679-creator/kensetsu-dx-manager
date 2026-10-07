@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="施工前の既設配管（サンプル画像）">
+  <rect width="800" height="600" fill="#57534e"/>
+  <rect x="120" y="0" width="560" height="600" fill="#78716c"/>
+  <g stroke-width="38" stroke-linecap="round">
+    <line x1="260" y1="0" x2="260" y2="600" stroke="#9a6b4b"/>
+    <line x1="420" y1="0" x2="420" y2="600" stroke="#8c5e40"/>
+    <line x1="560" y1="0" x2="560" y2="600" stroke="#a16207"/>
+  </g>
+  <g fill="#7c2d12" opacity=".75">
+    <ellipse cx="262" cy="180" rx="22" ry="34"/><ellipse cx="418" cy="320" rx="20" ry="44"/><ellipse cx="560" cy="120" rx="18" ry="26"/>
+    <ellipse cx="258" cy="420" rx="16" ry="22"/>
+  </g>
+  <rect x="24" y="530" width="340" height="46" rx="8" fill="#0f172a" opacity=".8"/>
+  <text x="42" y="561" font-family="sans-serif" font-size="22" fill="#fff">施工前 ・ 既設給湯管 腐食（サンプル画像）</text>
+</svg>
